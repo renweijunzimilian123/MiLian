@@ -4,18 +4,17 @@
 <meta charset="utf-8"> 
 <title>菜鸟教程(runoob.com)</title> 
 <style>
-#example1 {
-    background-image: url(img_flwr.gif), url(paper.gif);
-    background-position: right bottom, left top;
-    background-repeat: no-repeat, repeat;
-    padding: 15px;
+body
+{
+	background-color:#b0c4de;
 }
 </style>
 </head>
+
 <body>
 
-<div id="1.jpg">
-<h1>Lorem Ipsum Dolor</h1>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-<p>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
-</div>
+<h1>我的 CSS web 页!</h1>
+<p>你好世界！这是来自 runoob 菜鸟教程的实例。</p>
+
+</body>
+</html>
